@@ -140,7 +140,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun endGame(){
-        Toast.makeText(this, getString(R.string.game_over_message, score.toString()), Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, getString(R.string.game_over_message, score.toString()), Toast.LENGTH_LONG).show()
         resetGame()
     }
 
