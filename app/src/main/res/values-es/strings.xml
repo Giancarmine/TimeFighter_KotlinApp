@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Time Fighter</string>
     <string name="about_menu">info</string>
-    <string name="game_over_message">Se acabò el tiempo!! Tu puntuaciòn es: %s</string>
+    <string name="game_over_message">Se acabó el tiempo!! Tu puntuación es: %s</string>
     <string name="time_left">Tiempo: %s</string>
     <string name="your_score">Puntos: %s</string>
 </resources>
